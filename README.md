@@ -39,4 +39,4 @@ This Power BI dashboard analyzes e-commerce sales data to provide insights into 
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
